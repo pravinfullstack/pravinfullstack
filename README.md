@@ -15,7 +15,7 @@
 
 #### 💻 &nbsp; About Me :
 I am a Lead Engineer, Full Stack IT consultant specializing in frontend technologies, Author, Speaker & Blockchain Evangelist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- I’m working as a Lead Software Engineer helping build enterprise level web applications.
+- Delivered 14+ enterprise level web applications across Healthcare, Ed-Fintech & E-commerce.
 - Authoring and blogging about blockchain technologies.
 - Share knowledge through meetups and twitter.
 
