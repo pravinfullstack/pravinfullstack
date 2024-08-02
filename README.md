@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="origin-vr.png" alt="vr remote-first develper engineer" />
+  <img src="origin-vr.jpeg" alt="vr remote-first develper engineer" />
   <h2> Hi 👋 I'm Pravin Singh.</h2>
   <div id="badges">
     <a href="https://www.linkedin.com/in/maverickpravin/">
