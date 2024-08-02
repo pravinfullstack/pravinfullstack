@@ -1,4 +1,5 @@
 <div id="header" align="center">
+  <img src="origin-vr.png" alt="vr remote-first develper engineer" />
   <h2> Hi 👋 I'm Pravin Singh.</h2>
   <div id="badges">
     <a href="https://www.linkedin.com/in/maverickpravin/">
@@ -14,7 +15,7 @@
 </div>
 
 #### 💻 &nbsp; About Me :
-I am a Lead Software Engineer & Full Stack IT consultant specializing in frontend technologies, Author, Speaker & Blockchain Evangelist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am remote-first Lead Software Engineer & Full Stack IT consultant specializing in frontend technologies, Author, Speaker & Blockchain Evangelist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - Delivered 14+ enterprise level web applications across Healthcare, Ed-Fintech & E-commerce.
 - Authoring and blogging about blockchain technologies.
 - Share knowledge through meetups and twitter.
