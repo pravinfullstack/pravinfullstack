@@ -14,8 +14,9 @@
 </div>
 
 #### 💻 &nbsp; About Me :
-I am remote-first Lead Software Engineer & Full Stack IT consultant specializing in frontend technologies, Author, Speaker & Blockchain Evangelist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am remote-first Software Engineer & Full Stack IT consultant specializing in frontend technologies, Author, Speaker & Blockchain Evangelist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - Delivered 14+ enterprise level web applications across Healthcare, Ed-Fintech & E-commerce domain.
+- Served as Lead Software Consultant to Forture 500 clients. 
 - Authoring and blogging about blockchain technologies.
 - Share knowledge through meetups and twitter.
 
