@@ -19,6 +19,8 @@ I am remote-first Lead Software Engineer & Full Stack IT consultant specializing
 - Authoring and blogging about blockchain technologies.
 - Share knowledge through meetups and twitter.
 
+To learn more about me please take a look at my [personal website](https://pravinfullstack.vercel.app)
+
 #### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
